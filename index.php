@@ -9,6 +9,7 @@
 </head>
 <body>
 <h1>DRAWING A TREE</h1>
+<?php include 'content.php' ?>
 
 </body>
 </html>
