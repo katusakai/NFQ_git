@@ -7,8 +7,11 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
     <link rel="stylesheet" href="css/styles.css">
+    <title>NFQ ART CLASS</title>
 </head>
 <body>
+<h1>DRAWING A TREE</h1>
+<?php include 'content.php' ?>
 
 </body>
 </html>
